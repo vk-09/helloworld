@@ -1,3 +1,3 @@
 # helloworld
 Hey,
-My name is Vamsi Krishna dna I'm trying to explore github.
+My name is Vamsi Krishna and I'm trying to explore github.
